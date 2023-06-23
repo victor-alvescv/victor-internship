@@ -46,7 +46,7 @@ function NewItemCard({
           </div>
         </div>
         <Link to={`/item-details/${nftId}`}>
-          <img src={nftImage} className="lazy nft__item_preview" alt="" />
+          <img src={nftImage} style={{display: "initial"}} className="lazy nft__item_preview" alt="" />
         </Link>
       </div>
       <div className="nft__item_info">

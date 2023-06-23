@@ -149,7 +149,6 @@ const NewItems = () => {
                               backgroundColor: "rgba(0, 0, 0, 0.1)",
                               width: "100%",
                               height: "220px",
-                              margin: "0 auto",
                             }}
                           ></div>
                         </div>
